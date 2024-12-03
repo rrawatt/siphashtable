@@ -46,7 +46,7 @@ Key Components:
 
 3. Main Program
 
-The main.cpp file includes the HashMap implementation and tests its functionality. It demonstrates:
+The htab.cpp file includes the HashMap implementation and tests its functionality. It demonstrates:
 
     Insertion of key-value pairs into the hash map.
     Searching for keys and retrieving values.
